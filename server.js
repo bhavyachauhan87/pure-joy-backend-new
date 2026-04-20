@@ -2,9 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const nodemailer = require("nodemailer");
-const mongoose = require("mongoose");
 const fetch = require("node-fetch"); // ✅ ADD THIS
-
 // 👉 ADD THIS HERE
 const mongoose = require("mongoose");
 
